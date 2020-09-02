@@ -3,12 +3,13 @@ Given a dataset of answers to questionnaires answered by Forkaia's members, I us
 Then, I visualized the distribution of education degrees and job titles of Forkaia members.
 <br>
 <br>
-<b>talent_snapshot.png</b>
+<br>
+<b>talent_snapshot.png</b><br>
 The talent snapshot of Forkaia members produced based on the codes in the notebook.
-<br>
-<b>add_value_keywords.png</b>
+<br><br>
+<b>add_value_keywords.png</b><br>
 The most frequent keywords appearing in Forkaia members' descriptions of how they are adding values to Forkaia.
-<br>
-<b>goal_keywords.png</b>
+<br><br>
+<b>goal_keywords.png</b><br>
 The most frequent keywords appearing in Forkaia members' descriptions of what they are looking for in their work for Forkaia.
  
